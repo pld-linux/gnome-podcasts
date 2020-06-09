@@ -1,12 +1,12 @@
 Summary:	Podcasts player for GNOME
 Summary(pl.UTF-8):	Odtwarzacz podcastów dla GNOME
 Name:		gnome-podcasts
-Version:	0.4.6
+Version:	0.4.7
 Release:	1
 License:	GPL v3
 Group:		X11/Applications/Multimedia
-Source0:	https://gitlab.gnome.org/World/podcasts/uploads/e59ac5d618d7daf4c7f33ba72957c466/%{name}-%{version}.tar.xz
-# Source0-md5:	0af3c06625207c25c275a1fd080cd1d4
+Source0:	https://gitlab.gnome.org/World/podcasts/uploads/90c4f40f529ff91dabac5d7cbbc0f5ed/%{name}-%{version}.tar.xz
+# Source0-md5:	a29a9b348e5538f9fdd3c3b8892b69ae
 URL:		http://wiki.gnome.org/Apps/Podcasts
 BuildRequires:	gstreamer-devel >= 1.12
 BuildRequires:	gtk+3-devel >= 3.22
